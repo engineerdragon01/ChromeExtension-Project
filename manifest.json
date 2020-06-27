@@ -11,7 +11,7 @@
 
     "browser_action": {
       "default_popup": "main.html",
-      "default_icon": "picture.jpg"
+      "default_icon": "hello_extensions.png"
     },
 
     "commands": {
