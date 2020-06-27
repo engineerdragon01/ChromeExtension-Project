@@ -4,10 +4,27 @@
     "description": "Build an Extension!",
     "manifest_version": 2,
 
-    "permissions": ["storage"],
+    "permissions": ["declarativeContent", "storage"],
 
     "background": {
       "scripts": ["background.js"],
       "persistent": false
+    },
+
+    "page_action": {
+      "default_popup": "main.html",
+      "default_icon": {
+        "Hi": "hello_extensions.png",
+        "Hi": "hello_extensions.png",
+        "Hi": "hello_extensions.png",
+        "Hi": "hello_extensions.png"
+      }
+    },
+
+    "icons": {
+      "Hi": "hello_extensions.png",
+      "Hi": "hello_extensions.png",
+      "Hi": "hello_extensions.png",
+      "Hi": "hello_extensions.png"
     }
 }
