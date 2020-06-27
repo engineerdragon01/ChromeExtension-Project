@@ -11,6 +11,8 @@
       "persistent": false
     },
 
+    "options_page": "options.html",
+
     "page_action": {
       "default_popup": "main.html",
       "default_icon": {
