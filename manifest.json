@@ -14,17 +14,17 @@
     "page_action": {
       "default_popup": "main.html",
       "default_icon": {
-        "Hi": "hello_extensions.png",
-        "Hi": "hello_extensions.png",
-        "Hi": "hello_extensions.png",
-        "Hi": "hello_extensions.png"
+        "16": "hello_extensions.png",
+        "48": "hello_extensions.png",
+        "52": "hello_extensions.png",
+        "90": "hello_extensions.png"
       }
     },
 
     "icons": {
-      "Hi": "hello_extensions.png",
-      "Hi": "hello_extensions.png",
-      "Hi": "hello_extensions.png",
-      "Hi": "hello_extensions.png"
+      "16": "hello_extensions.png",
+      "48": "hello_extensions.png",
+      "52": "hello_extensions.png",
+      "90": "hello_extensions.png"
     }
 }
